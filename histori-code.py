@@ -11,7 +11,7 @@ class Arma:
     def get_dano(self):
         return self.dano
 
-    def get_ataque(self):
+    def get_ataque(self):igrbi
         return self.ataque
 
 EspadaTal = Arma("Ataque Corte!!!" , 10)
